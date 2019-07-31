@@ -1,4 +1,4 @@
-FROM librecat/catmandu:docker as catmandu
+FROM librecat/catmandu:latest as catmandu
 
 USER root
 
